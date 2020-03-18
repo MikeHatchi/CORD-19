@@ -28,5 +28,5 @@ A list of our initial key questions can be found under the Tasks section of this
 Many of these questions are suitable for text mining, and we encourage researchers to develop text mining tools to provide insights on these questions.
 
 ### Acknowledgements
-![logo_ackow.png](https://github.com/MikeHatchi/CORD-19/logo_ackow.png")
+![logo_ackow.png](https://github.com/MikeHatchi/CORD-19/blob/master/logo_acknow.png)
 This dataset was created by the Allen Institute for AI in partnership with the Chan Zuckerberg Initiative, Georgetown University’s Center for Security and Emerging Technology, Microsoft Research, and the National Library of Medicine - National Institutes of Health, in coordination with The White House Office of Science and Technology Policy.
