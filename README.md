@@ -23,7 +23,7 @@ This dataset was created by the Allen Institute for AI in partnership with the C
 Details<br>
 What do we know about COVID-19 risk factors? What have we learned from epidemiological studies?<br>
 Specifically, we want to know what the literature reports about:<br>
-1 Data on potential risks factors<br>
+- Data on potential risks factors<br>
  - Smoking, pre-existing pulmonary disease<br>
  - Co-infections (determine whether co-existing respiratory/viral infections make the virus more transmissible or virulent) and other co-morbidities<br>
  - Neonates and pregnant women<br>
