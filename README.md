@@ -23,13 +23,14 @@ This dataset was created by the Allen Institute for AI in partnership with the C
 Details<br>
 What do we know about COVID-19 risk factors? What have we learned from epidemiological studies?<br>
 Specifically, we want to know what the literature reports about:<br>
-- Data on potential risks factors<br>
- - Smoking, pre-existing pulmonary disease<br>
- - Co-infections (determine whether co-existing respiratory/viral infections make the virus more transmissible or virulent) and other co-morbidities<br>
- - Neonates and pregnant women<br>
+<br>
+- Data on potential risks factors
+ - Smoking, pre-existing pulmonary disease
+ - Co-infections (determine whether co-existing respiratory/viral infections make the virus more transmissible or virulent) and other co-morbidities
+ - Neonates and pregnant women
  - Socio-economic and behavioral factors to understand the economic impact of the virus and whether there were differences.
-2	Transmission dynamics of the virus, including the basic reproductive number, incubation period, serial interval, modes of transmission and environmental factors<br>
-3	Severity of disease, including risk of fatality among symptomatic hospitalized patients, and high-risk patient groups
-4	Susceptibility of populations<br>
-5	Public health mitigation measures that could be effective for control
+-	Transmission dynamics of the virus, including the basic reproductive number, incubation period, serial interval, modes of transmission and environmental factors
+-	Severity of disease, including risk of fatality among symptomatic hospitalized patients, and high-risk patient groups
+-	Susceptibility of populations
+-	Public health mitigation measures that could be effective for control
 
