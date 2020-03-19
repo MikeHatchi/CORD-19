@@ -17,8 +17,8 @@ This dataset was created by the Allen Institute for AI in partnership with the C
 
 ---
  
-### Task
-#### What do we know about COVID-19 risk factors?<br>
+## Task
+### What do we know about COVID-19 risk factors?<br>
 <br>
 ##### Details
 What do we know about COVID-19 risk factors? What have we learned from epidemiological studies?<br>
