@@ -6,7 +6,7 @@ An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House
 ### Task
 #### What do we know about COVID-19 risk factors?<br>
 <br>
-**Details**<br>
+__Details__<br>
 What do we know about COVID-19 risk factors? What have we learned from epidemiological studies?<br>
 Specifically, we want to know what the literature reports about:<br>
 •	Data on potential risks factors
