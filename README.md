@@ -8,7 +8,7 @@ CORD-19 is a resource of over 29.000 scholarly articles, including over 13,000 w
 
 ### Call to Action
 We are issuing a call to action to the world's artificial intelligence experts to develop text and data mining tools that can help the medical community develop answers to high priority scientific questions. The CORD-19 dataset represents the most extensive machine-readable coronavirus literature collection available for data mining to date. This allows the worldwide AI research community the opportunity to apply text and data mining approaches to find answers to questions within, and connect insights across, this content in support of the ongoing COVID-19 response efforts worldwide. There is a growing urgency for these approaches because of the rapid increase in coronavirus literature, making it difficult for the medical community to keep up.
-A list of our initial key questions can be found under the [Tasks] (https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks) section of this dataset. These key scientific questions are drawn from the NASEM’s SCIED (National Academies of Sciences, Engineering, and Medicine’s Standing Committee on Emerging Infectious Diseases and 21st Century Health Threats) [research topics] (https://www.nationalacademies.org/event/03-11-2020/standing-committee-on-emerging-infectious-diseases-and-21st-century-health-threats-virtual-meeting-1) and the World Health Organization’s [R&D Blueprint] (https://www.who.int/blueprint/priority-diseases/key-action/Global_Research_Forum_FINAL_VERSION_for_web_14_feb_2020.pdf?ua=1) for COVID-19. 
+A list of our initial key questions can be found under the [Tasks](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks) section of this dataset. These key scientific questions are drawn from the NASEM’s SCIED (National Academies of Sciences, Engineering, and Medicine’s Standing Committee on Emerging Infectious Diseases and 21st Century Health Threats) [research topics](https://www.nationalacademies.org/event/03-11-2020/standing-committee-on-emerging-infectious-diseases-and-21st-century-health-threats-virtual-meeting-1) and the World Health Organization’s [R&D Blueprint](https://www.who.int/blueprint/priority-diseases/key-action/Global_Research_Forum_FINAL_VERSION_for_web_14_feb_2020.pdf?ua=1) for COVID-19. 
 Many of these questions are suitable for text mining, and we encourage researchers to develop text mining tools to provide insights on these questions.
 
 ### Acknowledgements
@@ -20,7 +20,7 @@ This dataset was created by the Allen Institute for AI in partnership with the C
 ## Task #2 out of 10
 ### What do we know about COVID-19 risk factors?<br>
 <br>
-#####Details
+Details<br>
 What do we know about COVID-19 risk factors? What have we learned from epidemiological studies?<br>
 Specifically, we want to know what the literature reports about:<br>
 1 Data on potential risks factors<br>
