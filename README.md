@@ -2,24 +2,6 @@
 An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House
 
 ---
- 
-### Task
-#### What do we know about COVID-19 risk factors?<br>
-<br>
-##### Details
-What do we know about COVID-19 risk factors? What have we learned from epidemiological studies?<br>
-Specifically, we want to know what the literature reports about:<br>
-1 Data on potential risks factors
- - Smoking, pre-existing pulmonary disease
- - Co-infections (determine whether co-existing respiratory/viral infections make the virus more transmissible or virulent) and other co-morbidities
- - Neonates and pregnant women
- - Socio-economic and behavioral factors to understand the economic impact of the virus and whether there were differences.
-2	Transmission dynamics of the virus, including the basic reproductive number, incubation period, serial interval, modes of transmission and environmental factors
-3	Severity of disease, including risk of fatality among symptomatic hospitalized patients, and high-risk patient groups
-4	Susceptibility of populations
-5	Public health mitigation measures that could be effective for control
-
-
 ### Dataset Description
 In response to the COVID-19 pandemic, the White House and a coalition of leading research groups have prepared the COVID-19 Open Research Dataset (CORD-19).<br>
 CORD-19 is a resource of over 29.000 scholarly articles, including over 13,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses. This freely available dataset is provided to the global research community to apply recent advances in natural language processing and other AI techniques to generate new insights in support of the ongoing fight against this infectious disease. There is a growing urgency for these approaches because of the rapid acceleration in new coronavirus literature, making it difficult for the medical research community to keep up.
@@ -32,3 +14,22 @@ Many of these questions are suitable for text mining, and we encourage researche
 ### Acknowledgements
 ![logo_ackow.png](https://github.com/MikeHatchi/CORD-19/blob/master/logo_acknow.png)
 This dataset was created by the Allen Institute for AI in partnership with the Chan Zuckerberg Initiative, Georgetown University’s Center for Security and Emerging Technology, Microsoft Research, and the National Library of Medicine - National Institutes of Health, in coordination with The White House Office of Science and Technology Policy.
+
+---
+ 
+### Task
+#### What do we know about COVID-19 risk factors?<br>
+<br>
+##### Details
+What do we know about COVID-19 risk factors? What have we learned from epidemiological studies?<br>
+Specifically, we want to know what the literature reports about:<br>
+1 Data on potential risks factors<br>
+ - Smoking, pre-existing pulmonary disease<br>
+ - Co-infections (determine whether co-existing respiratory/viral infections make the virus more transmissible or virulent) and other co-morbidities<br>
+ - Neonates and pregnant women<br>
+ - Socio-economic and behavioral factors to understand the economic impact of the virus and whether there were differences.
+2	Transmission dynamics of the virus, including the basic reproductive number, incubation period, serial interval, modes of transmission and environmental factors<br>
+3	Severity of disease, including risk of fatality among symptomatic hospitalized patients, and high-risk patient groups
+4	Susceptibility of populations<br>
+5	Public health mitigation measures that could be effective for control
+
