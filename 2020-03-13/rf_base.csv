@@ -1,9 +1,9 @@
 Factor,Description
-    Pulmorary risk,"Smoking, preexisting pulmonary disease"
-    Infection risk,Coinfections determine whether coexisting respiratory or viral infections make the virus more transmissible or virulent and other comorbidities
-    Birth risk,Neonates and pregnant women
-    Socio-economic risk,Socio-economic and behavioral factors to understand the economic impact of the virus and whether there were differences
+    Pulmonary,"Smoking, preexisting pulmonary disease"
+    Infection,Coinfections determine whether coexisting respiratory or viral infections make the virus more transmissible or virulent and other comorbidities
+    Birth,Neonates and pregnant women
+    Socio-eco,Socio-economic and behavioral factors to understand the economic impact of the virus and whether there were differences
     Transmission,"Transmission dynamics of the virus, including the basic reproductive number, incubation period, serial interval, modes of transmission and environmental factors"
     Severity,"Severity of disease, including risk of fatality among symptomatic hospitalized patients, and high-risk patient groups"
     Susceptibility,Susceptibility of populations
-    mitig measures,Public health mitigation measures that could be effective for control
+    Mitig-measures,Public health mitigation measures that could be effective for control

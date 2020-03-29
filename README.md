@@ -25,10 +25,10 @@ What do we know about COVID-19 risk factors? What have we learned from epidemiol
 Specifically, we want to know what the literature reports about:<br>
 <br>
 1. Data on potential risks factors<br>
- -Smoking, pre-existing pulmonary disease<br>
- -Co-infections (determine whether co-existing respiratory/viral infections make the virus more transmissible or virulent) and other co-morbidities<br>
- -Neonates and pregnant women<br>
- -Socio-economic and behavioral factors to understand the economic impact of the virus and whether there were differences.<br>
+ - Smoking, pre-existing pulmonary disease<br>
+ - Co-infections (determine whether co-existing respiratory/viral infections make the virus more transmissible or virulent) and other co-morbidities<br>
+ - Neonates and pregnant women<br>
+ - Socio-economic and behavioral factors to understand the economic impact of the virus and whether there were differences.<br>
 2. Transmission dynamics of the virus, including the basic reproductive number, incubation period, serial interval, modes of transmission and environmental factors<br>
 3. Severity of disease, including risk of fatality among symptomatic hospitalized patients, and high-risk patient groups<br>
 4. Susceptibility of populations<br>
